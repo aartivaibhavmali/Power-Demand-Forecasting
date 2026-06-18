@@ -301,7 +301,14 @@ with st.sidebar:
 # ---------------------------------------------------------
 # MAIN HEADER
 # ---------------------------------------------------------
-st.markdown("# Power demand forecast")
+st.markdown("""
+<h1 style='text-align: center; color: #1f77b4;'>
+⚡ Power Demand Forecast Dashboard
+</h1>
+<p style='text-align: center; font-size:18px;'>
+AI-based Energy Demand Prediction Dashboard
+</p>
+""", unsafe_allow_html=True)
 st.markdown('<p class="subtitle-text">Actual vs predicted hourly power demand (PJMW_MW)</p>', unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 
