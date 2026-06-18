@@ -310,10 +310,16 @@ text-align:center;
 color:white;
 font-size:32px;
 font-weight:bold;">
-⚡ Power Demand Forecast
+⚡ Power Demand Forecasting Dashboard
 </div>
 """, unsafe_allow_html=True)
-st.markdown('<p class="subtitle-text">Actual vs predicted hourly power demand (PJMW_MW)</p>', unsafe_allow_html=True)
+st.markdown("""
+<div style="text-align:center;">
+    <p style="font-size:16px; color:gray;">
+        Actual vs Predicted Hourly Power Demand (PJMW_MW)
+    </p>
+</div>
+""", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 
 
