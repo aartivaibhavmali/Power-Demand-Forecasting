@@ -9,6 +9,9 @@ Two modes (selectable in sidebar):
   2. Load Saved Model — load a pre-trained .pkl model + a pre-saved
      test predictions CSV (from your notebook) for instant results.
 """
+import subprocess
+import sys
+subprocess.run([sys.executable, "-m", "pip", "install", "plotly"])
 
 import streamlit as st
 import pandas as pd
