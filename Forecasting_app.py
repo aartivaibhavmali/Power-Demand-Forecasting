@@ -303,7 +303,7 @@ with st.sidebar:
 # ---------------------------------------------------------
 st.markdown("""
 <h1 style='text-align: center; color: #1f77b4;'>
-⚡ Power Demand Forecast Dashboard
+⚡ Power Demand Forecasting Dashboard
 </h1>
 <p style='text-align: center; font-size:18px;'>
 AI-based Energy Demand Prediction Dashboard
