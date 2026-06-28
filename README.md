@@ -192,7 +192,7 @@ The developed forecasting system successfully predicts hourly electricity demand
 
 ### Dashboard
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ### Model Comparison
 
@@ -200,11 +200,15 @@ The developed forecasting system successfully predicts hourly electricity demand
 
 ### Feature Importance
 
-![Feature Importance](Images/Feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 ### Prediction
 
 ![Prediction](Images/prediction.png)
+
+### 30 Days Forecasting
+
+![Forecasting](Images/Forecasting.png)
 
 ---
 
