@@ -144,7 +144,7 @@ Power_Demand_Forecasting/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/power-demand-forecasting.git
+git clone [https://github.com/aartivaibhavmali/Power-Demand-Forecasting]
 ```
 
 ### Move into the Project Folder
