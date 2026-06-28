@@ -190,19 +190,21 @@ The developed forecasting system successfully predicts hourly electricity demand
 
 ## 📷 Project Screenshots
 
-Add screenshots here after uploading them to GitHub.
+### Dashboard
 
-### Dashboard Home
+![Dashboard](images/Dashboard.png)
 
-![Dashboard](images/dashboard.png)
+### Model Comparison
 
-### Actual vs Predicted
-
-![Prediction](images/prediction.png)
+![Model Comparison](images/Models_Comparison.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_importance.png)
+
+### Prediction
+
+![Prediction](images/prediction.png)
 
 ---
 
