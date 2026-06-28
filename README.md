@@ -1,4 +1,4 @@
-# ⚡ Power Demand Forecasting Using Machine Learning and Time Series Models
+# ⚡ Power Demand Forecasting Using ML and Time Series Models
 
 ## 📌 Project Overview
 
@@ -234,11 +234,3 @@ The developed forecasting system successfully predicts hourly electricity demand
 
 ---
 
-## 📄 License
-
-This project was developed for educational and internship purposes as part of the Data Science Program conducted by **Excler** 
----
-
-##  Acknowledgement
-
-We sincerely thanks **Excler**,  our mentors, and all team members for their continuous guidance and support throughout the successful completion of this project.
