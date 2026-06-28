@@ -196,7 +196,7 @@ The developed forecasting system successfully predicts hourly electricity demand
 
 ### Model Comparison
 
-![Model Comparison](Images/Models_Comparison.png)
+![Models Comparison](Images/Models_Comparison.png)
 
 ### Feature Importance
 
