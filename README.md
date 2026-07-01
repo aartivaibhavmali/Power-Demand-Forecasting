@@ -223,14 +223,3 @@ The developed forecasting system successfully predicts hourly electricity demand
 
 ---
 
-## 👥 Team Members
-
-- Aarti Vaibhav Mali
-- Arya Ramesh Autade
-- Rani Bhanudas Mali
-- Vivek P
-- Molli Sai Durga Lokesh
-- Vedant Thokal
-
----
-
